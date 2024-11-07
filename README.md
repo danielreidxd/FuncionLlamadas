@@ -36,6 +36,10 @@ Elige un contacto; si el número tiene prefijo +52, se eliminará automáticamen
 Realizar la Llamada:
 Una vez que el número está ingresado o seleccionado, presiona "Llamar".
 
+https://github.com/user-attachments/assets/16765795-a8f2-4b6e-858e-ef824ec29122
+
+
+
 # Archivos Principales
 App.js: Contiene la lógica de la aplicación y la interfaz de usuario.
 styles: Define los estilos de la interfaz de la aplicación.
